@@ -26,6 +26,8 @@ OBS: Porta utilizada pela API: http://localhost:3151
 
 1 - Com o console na pasta ../frontend/  
 2 - Executar o comando ```yarn```, para assim obter a pasta node_modules.  
+3 - Executar o comando ```yarn start``` para iniciar a aplicação frontend.
+4 - Para realizar o login, utilizar o usuario de administrador: admin@gympoint.com e senha: 123456.  
 
 ## Mobile
 

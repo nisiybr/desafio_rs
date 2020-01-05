@@ -24,12 +24,19 @@ OBS: Porta utilizada pela API: http://localhost:3151
 
 ## Front End
 
+OBS: Porta utilizada pelo frontend: http://localhost:3000/  
+
 1 - Com o console na pasta ../frontend/  
 2 - Executar o comando ```yarn```, para assim obter a pasta node_modules.  
-3 - Executar o comando ```yarn start``` para iniciar a aplicação frontend.
+3 - Executar o comando ```yarn start``` para iniciar a aplicação frontend.  
 4 - Para realizar o login, utilizar o usuario de administrador: admin@gympoint.com e senha: 123456.  
 
-## Mobile
+## Mobile Android
 
 1 - Com o console na pasta ../mobile/  
-2 - Executar o comando ```yarn```, para assim obter a pasta node_modules.  
+2 - Executar o comando ```yarn```, para assim obter a pasta node_modules.
+3 - Abra o emulador Genymotion  
+4 - Inicialize uma versão do emulador  
+5 - Com o console na pasta ../mobile/, executar o comando: ```react-native run-android```     
+6 - O login deve ser realizado com o id de cadastro do Student
+
